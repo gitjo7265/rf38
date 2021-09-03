@@ -45,7 +45,7 @@ Rue Franche 38, 2502 Bienne [Google Maps](https://www.google.ch/maps/place/Rue+F
 | Gebet               | Mittwoch  | 20:00         |
 
 *16:30 am 4. Sonntag im Sommer (April bis Oktober\
-16:30 am 2. und 4. Sonntag im Winter (November bis März)
+16:30 am 2. und 4. Sonntag im Winter (November bis März)\
 10:30 an anderen Sonntagen
 
 ## Adresse
