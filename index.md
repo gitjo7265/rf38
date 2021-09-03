@@ -17,10 +17,10 @@ layout: default
 *16h30 le 4e dimanche du mois en été\
 16h30 les 2e et 4e dimanche du mois en hiver
 
-### Adresse
+## Adresse
 Rue Franche 38, 2503 Bienne
 
-### Contact
+## Contact
 079 xxx xx xx
 
 * * *
@@ -40,8 +40,8 @@ Rue Franche 38, 2503 Bienne
 *16h30 am 4. Sonntag im Sommer\
 16h30 am 2. und 4. Sonntag im Winter
 
-### Adresse
+## Adresse
 Freistrasse 38, 2503 Biel
 
-### Kontakt
+## Kontakt
 079 xxx xx xx
