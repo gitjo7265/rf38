@@ -9,12 +9,12 @@ layout: default
 
 ## Horaire
 
-|:--------------------|:-----------|:------- |
-| culte               | dimanche   | 10h00   |
-| lecture de la Bible | dimanche   | 19h30*  |
-| prière              | mercredi   | 20:00   |
+|:--------------------|:-----------|:------------- |
+| culte               | dimanche   | 10h00         |
+| lecture de la Bible | dimanche   | 16h30/19h30*  |
+| prière              | mercredi   | 20:00         |
 
-*16h30 le 4e dimanche du mois en été
+*16h30 le 4e dimanche du mois en été\
 16h30 les 2e et 4e dimanche du mois en hiver
 
 ### Adresse
@@ -32,12 +32,12 @@ Rue Franche 38, 2503 Bienne
 
 ## Zeitplan
 
-|:--------------------|:----------|:------- |
-| Brotbrechen         | Sonntag   | 10h00   |
-| Bibelstunde         | Sonntag   | 19h30*  |
-| Gebet               | Mittwoch  | 20:00   |
+|:--------------------|:----------|:------------- |
+| Brotbrechen         | Sonntag   | 10h00         |
+| Bibelstunde         | Sonntag   | 16h30/19h30*  |
+| Gebet               | Mittwoch  | 20:00         |
 
-*16h30 am 4. Sonntag im Sommer
+*16h30 am 4. Sonntag im Sommer\
 16h30 am 2. und 4. Sonntag im Winter
 
 ### Adresse
