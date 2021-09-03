@@ -4,7 +4,6 @@ layout: default
 
 # Réunions chrétiennes
 
-* * *
 
 > Là où deux ou trois sont assemblés en mon nom, je suis là au milieu d’eux.\
 > Matthieu 18, 20
@@ -28,6 +27,7 @@ Rue Franche 38, 2503 Bienne
 * * *
 
 # Christliche Versammlungen
+
 
 > Denn wo zwei oder drei versammelt sind in meinem Namen, da bin ich in ihrer Mitte.\
 > Matthäus 18, 20
