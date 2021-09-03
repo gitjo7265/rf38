@@ -2,7 +2,9 @@
 layout: default
 ---
 
-# Bienvenue!
+# Réunions chrétiennes Christliche Versammlungen
+
+* * *
 
 > Là où deux ou trois sont assemblés en mon nom, je suis là au milieu d’eux.\
 > Matthieu 18, 20
@@ -23,9 +25,9 @@ Rue Franche 38, 2503 Bienne
 ## Contact
 079 xxx xx xx
 
-* * *
+## Bienvenue!
 
-# Willkomen!
+* * *
 
 > Denn wo zwei oder drei versammelt sind in meinem Namen, da bin ich in ihrer Mitte.\
 > Matthäus 18, 20
@@ -45,3 +47,5 @@ Freistrasse 38, 2503 Biel
 
 ## Kontakt
 079 xxx xx xx
+
+## Willkomen!
