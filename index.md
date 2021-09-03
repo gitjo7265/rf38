@@ -45,7 +45,7 @@ Rue Franche 38, 2503 Bienne
 16h30 am 2. und 4. Sonntag im Winter
 
 ## Adresse
-Freistrasse 38, 2503 Biel
+Freiestrasse 38, 2503 Biel
 
 ## Kontakt
 079 xxx xx xx
