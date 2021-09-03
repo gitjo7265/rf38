@@ -9,16 +9,39 @@ layout: default
 
 ## Horaire
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+|:--------------------|:-----------|:------- |
+| culte               | dimanche   | 10h00   |
+| lecture de la Bible | dimanche   | 19h30*  |
+| prière              | mercredi   | 20:00   |
+
+*16h30 le 4e dimanche du mois en été
+*16h30 les e2 et 4e dimanche du mois en hiver
 
 ### Adresse
+Rue Franche 38, 2503 Bienne
 
 ### Contact
+079 xxx xx xx
 
 * * *
 
+# Willkomen!
+
+> Denn wo zwei oder drei versammelt sind in meinem Namen, da bin ich in ihrer Mitte.
+> Matthäus 18, 20
+
+## Zeitplan
+
+|:--------------------|:----------|:------- |
+| Brotbrechen         | Sonntag   | 10h00   |
+| Bibelstunde         | Sonntag   | 19h30*  |
+| Gebet               | Mittwoch  | 20:00   |
+
+*16h30 am 4. Sonntag im Sommer
+*16h30 am 2. und 4. Sonntag im Winter
+
+### Adresse
+Freistrasse 38, 2503 Biel
+
+### Kontakt
+079 xxx xx xx
