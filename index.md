@@ -22,7 +22,7 @@ layout: default
 19:30 les autres dimanches
 
 ## Adresse
-Rue Franche 38, 2502 Bienne [Caption](https://www.google.ch/maps/place/Rue+Franche+38,+2502+Bienne)
+Rue Franche 38, 2502 Bienne [Google Maps](https://www.google.ch/maps/place/Rue+Franche+38,+2502+Bienne)
 
 ## Contact
 079 xxx xx xx
@@ -49,7 +49,7 @@ Rue Franche 38, 2502 Bienne [Caption](https://www.google.ch/maps/place/Rue+Franc
 10:30 an anderen Sonntagen
 
 ## Adresse
-Freiestrasse 38, 2502 Biel
+Freiestrasse 38, 2502 Biel [Google Maps](https://www.google.ch/maps/place/Rue+Franche+38,+2502+Bienne)
 
 ## Kontakt
 079 xxx xx xx
