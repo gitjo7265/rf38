@@ -24,7 +24,7 @@ Rue Franche 38, 2503 Bienne
 ## Contact
 079 xxx xx xx
 
-# Bienvenue!
+### Bienvenue!
 
 * * *
 
@@ -50,4 +50,4 @@ Freistrasse 38, 2503 Biel
 ## Kontakt
 079 xxx xx xx
 
-# Willkomen!
+### Willkomen!
