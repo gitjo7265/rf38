@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Réunions chrétiennes Christliche Versammlungen
+# Réunions chrétiennes
 
 * * *
 
@@ -25,9 +25,9 @@ Rue Franche 38, 2503 Bienne
 ## Contact
 079 xxx xx xx
 
-## Bienvenue!
-
 * * *
+
+# Christliche Versammlungen
 
 > Denn wo zwei oder drei versammelt sind in meinem Namen, da bin ich in ihrer Mitte.\
 > Matthäus 18, 20
