@@ -4,7 +4,7 @@ layout: default
 
 # Bienvenue!
 
-> Là où deux ou trois sont assemblés en mon nom, je suis là au milieu d’eux.
+> Là où deux ou trois sont assemblés en mon nom, je suis là au milieu d’eux.\
 > Matthieu 18, 20
 
 ## Horaire
@@ -27,7 +27,7 @@ Rue Franche 38, 2503 Bienne
 
 # Willkomen!
 
-> Denn wo zwei oder drei versammelt sind in meinem Namen, da bin ich in ihrer Mitte.
+> Denn wo zwei oder drei versammelt sind in meinem Namen, da bin ich in ihrer Mitte.\
 > Matthäus 18, 20
 
 ## Zeitplan
