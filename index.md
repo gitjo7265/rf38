@@ -15,7 +15,7 @@ layout: default
 | prière              | mercredi   | 20:00   |
 
 *16h30 le 4e dimanche du mois en été
-*16h30 les e2 et 4e dimanche du mois en hiver
+16h30 les 2e et 4e dimanche du mois en hiver
 
 ### Adresse
 Rue Franche 38, 2503 Bienne
@@ -38,7 +38,7 @@ Rue Franche 38, 2503 Bienne
 | Gebet               | Mittwoch  | 20:00   |
 
 *16h30 am 4. Sonntag im Sommer
-*16h30 am 2. und 4. Sonntag im Winter
+16h30 am 2. und 4. Sonntag im Winter
 
 ### Adresse
 Freistrasse 38, 2503 Biel
