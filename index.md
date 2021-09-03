@@ -17,8 +17,8 @@ layout: default
 | lecture de la Bible | dimanche   | 16h30/19h30*  |
 | prière              | mercredi   | 20:00         |
 
-*16h30 le 4e dimanche du mois en été\
-16h30 les 2e et 4e dimanche du mois en hiver
+*16h30 le 4e dimanche du mois en été (avril à octobre)\
+16h30 les 2e et 4e dimanche du mois en hiver (novembre à mars)
 
 ## Adresse
 Rue Franche 38, 2503 Bienne
@@ -43,8 +43,8 @@ Rue Franche 38, 2503 Bienne
 | Bibelstunde         | Sonntag   | 16h30/19h30*  |
 | Gebet               | Mittwoch  | 20:00         |
 
-*16h30 am 4. Sonntag im Sommer\
-16h30 am 2. und 4. Sonntag im Winter
+*16h30 am 4. Sonntag im Sommer (April bis Oktober\
+16h30 am 2. und 4. Sonntag im Winter (November bis März)
 
 ## Adresse
 Freiestrasse 38, 2503 Biel
