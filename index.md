@@ -18,11 +18,11 @@ layout: default
 | prière              | mercredi   | 20:00         |
 
 *16:30 le 4e dimanche du mois en été (avril à octobre)\
-16h30 les 2e et 4e dimanche du mois en hiver (novembre à mars)\
+16:30 les 2e et 4e dimanche du mois en hiver (novembre à mars)\
 19:30 les autres dimanches
 
 ## Adresse
-Rue Franche 38, 2503 Bienne
+Rue Franche 38, 2502 Bienne
 
 ## Contact
 079 xxx xx xx
@@ -49,7 +49,7 @@ Rue Franche 38, 2503 Bienne
 10:30 an anderen Sonntagen
 
 ## Adresse
-Freiestrasse 38, 2503 Biel
+Freiestrasse 38, 2502 Biel
 
 ## Kontakt
 079 xxx xx xx
