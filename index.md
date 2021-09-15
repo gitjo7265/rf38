@@ -5,8 +5,8 @@ layout: default
 # Réunions chrétiennes
 
 
-> Là où deux ou trois sont assemblés en mon nom, je suis là au milieu d’eux.\
-> Matthieu 18, 20
+> Dieu est amour.\
+> 1 Jean 4, 8
 
 ## Bienvenue!
 
