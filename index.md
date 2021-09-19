@@ -32,8 +32,8 @@ Rue Franche 38, 2502 Bienne [Google Maps](https://www.google.ch/maps/place/Rue+F
 # Christliche Versammlungen
 
 
-> Denn wo zwei oder drei versammelt sind in meinem Namen, da bin ich in ihrer Mitte.\
-> Matthäus 18, 20
+> Gott ist Liebe.\
+> 1. Johannes 4, 8
 
 ## Willkomen!
 
