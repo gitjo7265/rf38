@@ -32,7 +32,7 @@ Rue Franche 38, 2502 Bienne [Google Maps](https://www.google.ch/maps/place/Rue+F
 # Christliche Versammlungen
 
 
-> Gott ist Liebe.\
+> Gott ist Liebe.
 > 1. Johannes 4, 8
 
 ## Willkomen!
