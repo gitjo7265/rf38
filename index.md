@@ -5,8 +5,7 @@ layout: default
 # Réunions chrétiennes
 
 
-> Dieu est amour.\
-> 1 Jean 4, 8
+> Dieu est amour. 1 Jean 4, 8
 
 ## Bienvenue!
 
@@ -32,8 +31,7 @@ Rue Franche 38, 2502 Bienne [Google Maps](https://www.google.ch/maps/place/Rue+F
 # Christliche Versammlungen
 
 
-> Gott ist Liebe.
-> 1. Johannes 4, 8
+> Gott ist Liebe. 1. Johannes 4, 8
 
 ## Willkomen!
 
