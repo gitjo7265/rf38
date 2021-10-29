@@ -5,7 +5,7 @@ layout: default
 # Réunions chrétiennes
 
 
-> Dieu est amour. 1 Jean 4, 8
+> Jésus dit: Moi, je suis le chemin, et la vérité, et la vie. Jean 14, 6
 
 ## Bienvenue!
 
@@ -24,14 +24,14 @@ layout: default
 Rue Franche 38, 2502 Bienne [Google Maps](https://www.google.ch/maps/place/Rue+Franche+38,+2502+Bienne)
 
 ## Contact
-079 xxx xx xx
+079 753 5948 (Joel)
 
 * * *
 
 # Christliche Versammlungen
 
 
-> Gott ist Liebe. 1. Johannes 4, 8
+> Jesus spricht: Ich bin der Weg und die Wahrheit und das Leben. Johannes 14, 6
 
 ## Willkomen!
 
@@ -50,4 +50,4 @@ Rue Franche 38, 2502 Bienne [Google Maps](https://www.google.ch/maps/place/Rue+F
 Freiestrasse 38, 2502 Biel [Google Maps](https://www.google.ch/maps/place/Rue+Franche+38,+2502+Bienne)
 
 ## Kontakt
-079 xxx xx xx
+079 753 5948 (Joel)
