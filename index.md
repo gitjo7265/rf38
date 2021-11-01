@@ -24,7 +24,7 @@ layout: default
 Rue Franche 38, 2502 Bienne [Google Maps](https://www.google.ch/maps/place/Rue+Franche+38,+2502+Bienne)
 
 ## Contact
-079 753 5948 (Joel)
+079 793 32 69 (Sylvain)
 
 * * *
 
@@ -50,4 +50,4 @@ Rue Franche 38, 2502 Bienne [Google Maps](https://www.google.ch/maps/place/Rue+F
 Freiestrasse 38, 2502 Biel [Google Maps](https://www.google.ch/maps/place/Rue+Franche+38,+2502+Bienne)
 
 ## Kontakt
-079 753 5948 (Joel)
+079 456 53 01 (Daniel)
