@@ -44,7 +44,7 @@ Rue Franche 38, 2502 Bienne [Google Maps](https://www.google.ch/maps/place/Rue+F
 
 *16:30 am 4. Sonntag im Sommer (April bis Oktober)\
 16:30 am 2. und 4. Sonntag im Winter (November bis März)\
-10:30 an anderen Sonntagen
+19:30 an anderen Sonntagen
 
 ## Adresse
 Freiestrasse 38, 2502 Biel [Google Maps](https://www.google.ch/maps/place/Rue+Franche+38,+2502+Bienne)
