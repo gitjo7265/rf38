@@ -7,8 +7,6 @@ layout: default
 
 > Jésus dit: Moi, je suis le chemin, et la vérité, et la vie. Jean 14, 6
 
-## Bienvenue!
-
 ## Horaire
 
 |:--------------------|:-----------|:------------- |
@@ -32,8 +30,6 @@ Rue Franche 38, 2502 Bienne [Google Maps](https://www.google.ch/maps/place/Rue+F
 
 
 > Jesus spricht: Ich bin der Weg und die Wahrheit und das Leben. Johannes 14, 6
-
-## Willkomen!
 
 ## Zeitplan
 
